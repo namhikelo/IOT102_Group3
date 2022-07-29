@@ -1,8 +1,8 @@
 # Welcome to IOT102_SE150923_Group03
 Members of the group:
-- Phan Hoang Nam
-- Huynh Trung Tin
-- Le Thanh Hoang
+- Phan Hoang Nam 
+- Huynh Trung Tin (https://github.com/tinht21201)
+- Le Thanh Hoang (https://github.com/SpaceNoShy)
 - Phan Huyen Tram 
 - Vo Thi Kim Trang
 
